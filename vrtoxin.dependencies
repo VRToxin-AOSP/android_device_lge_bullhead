@@ -1,14 +1,14 @@
 [
   {
-    "repository": "akhilnarang/ThugLife",
+    "repository": "akhilnarang/ThugLife_bullhead",
     "target_path": "kernel/lge/bullhead",
-    "revision": "bullhead",
-    "remote": "git",
+    "revision": "master",
+    "remote": "git"
   },
   {
-   "repository": "PureNexus/proprietary_vendor_lge",
+   "repository": "PureNexusProject/proprietary_vendor_lge",
    "target_path": "vendor/lge",
    "revision": "mm",
-   "remote": "github"
+   "remote": "git"
   }
 ]
